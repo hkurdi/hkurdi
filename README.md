@@ -47,7 +47,7 @@ A machine learning model classifying SMS and emails as spam with 96.9% accuracy 
 
 ## 📫 Get in Touch
 
-Feel free to reach out to me via [LinkedIn](https://www.linkedin.com/in/hamza-al-kurdi/) or [Email](mailto:hkurdi@usf.edu).
+Feel free to reach out to me via [LinkedIn](https://www.linkedin.com/in/hamza-al-kurdi/) or [Email](mailto:hamzakurdi5@gmail.com).
 
 ---
 
