@@ -37,10 +37,6 @@ A machine learning model classifying SMS and emails as spam with 96.9% accuracy 
 - **Tools**: Git, Docker, Jenkins, AWS, DevOps
 - **Databases**: MongoDB, DynamoDB, SupaBase, MS SQL Server Management Studio
 
-## 📈 Stats
-
-![Hamza's GitHub stats](https://github-readme-stats.vercel.app/api?username=hkurdi&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hkurdi&layout=compact&theme=radical)
 
 ## 🌱 Currently Learning & Working On
 
