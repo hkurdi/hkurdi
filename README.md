@@ -3,7 +3,6 @@
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hamza-al-kurdi/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hkurdi)
 [![Portfolio](https://img.shields.io/badge/Portfolio-3B3B3B?style=for-the-badge&logo=html5&logoColor=white)](https://whoishlk.dev/)
 
 </div>
