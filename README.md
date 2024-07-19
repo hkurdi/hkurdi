@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Hamza Al Kurdi!
+# 👋 Hello, I'm Hamza!
 
 <div align="center">
 
