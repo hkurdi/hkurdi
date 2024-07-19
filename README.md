@@ -8,7 +8,7 @@
 
 </div>
 
-Welcome to my GitHub profile! I'm a passionate software engineer with a keen interest in machine learning, web development, and cutting-edge technologies. As a first-generation international university scholar, I've been on a journey of continuous learning and growth.
+Welcome to my GitHub profile! I'm a passionate software engineer with a keen interest in machine learning, web development, and cutting-edge technologies. As an international STEM scholar based in the US, I've been on a journey of continuous learning and growth.
 
 ## 🚀 Projects
 
