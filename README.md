@@ -40,8 +40,6 @@ A machine learning model classifying SMS and emails as spam with 96.9% accuracy 
 ## 🌱 Currently Learning & Working On
 
 - Advanced Machine Learning & Deep Learning Techniques
-- Cloud Computing with AWS (AWS Certified Cloud Practitioner)
-- 🩺 MedIQ
 - 🌐 Baladi
 
 ## 📫 Get in Touch
