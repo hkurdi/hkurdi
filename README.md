@@ -12,10 +12,11 @@ Welcome to my GitHub profile! I'm a passionate software engineer with a keen int
 ## 🚀 Projects
 
 ### 🌐 Baladi
-A chat room application connecting international students globally, built from the ground up with the MERN stack, focusing on user-centric design and rapid progress using Agile methodologies.
+A chatroom platform uniting international students globally, built with React Native (Expo framework), Node.js, Spring Boot, MongoDB, and PostgreSQL. It emphasizes user-centric design, privacy-focused connections, and agile methodologies for rapid iteration. Stay local, worldwide.
 
 ### 🏋️‍♂ Ta5beesScript
 A personal programming language project designed to balance creativity, humor, and functionality. Built with TypeScript, it aims to simplify and enhance the development experience, specifically for Arab speaking developers.
+
 ### 📉 PriceRadar
 A full-stack application for real-time Amazon product price tracking, user registration, and notification features using TypeScript, Next.js, Express, Node.js, and MongoDB.
 
