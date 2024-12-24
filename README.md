@@ -15,8 +15,7 @@ Welcome to my GitHub profile! I'm a passionate software engineer with a keen int
 A chat room application connecting international students globally, built from the ground up with the MERN stack, focusing on user-centric design and rapid progress using Agile methodologies.
 
 ### 🏋️‍♂ Ta5beesScript
-An application to improve patient care and medication management, offering detailed drug information, dosage guidance, and alerts for taking medicine.
-
+A personal programming language project designed to balance creativity, humor, and functionality. Built with TypeScript, it aims to simplify and enhance the development experience, specifically for Arab speaking developers.
 ### 📉 PriceRadar
 A full-stack application for real-time Amazon product price tracking, user registration, and notification features using TypeScript, Next.js, Express, Node.js, and MongoDB.
 
