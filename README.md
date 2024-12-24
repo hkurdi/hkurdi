@@ -14,14 +14,14 @@ Welcome to my GitHub profile! I'm a passionate software engineer with a keen int
 ### 🌐 Baladi
 A chat room application connecting international students globally, built from the ground up with the MERN stack, focusing on user-centric design and rapid progress using Agile methodologies.
 
-### 🩺 MedIQ
+### 🏋️‍♂ Ta5beesScript
 An application to improve patient care and medication management, offering detailed drug information, dosage guidance, and alerts for taking medicine.
 
 ### 📉 PriceRadar
 A full-stack application for real-time Amazon product price tracking, user registration, and notification features using TypeScript, Next.js, Express, Node.js, and MongoDB.
 
-### 📝 ResuMaster
-An ATS resume reviewer using Python, Streamlit, Google Generative AI, and AWS Lambda to analyze and enhance resumes.
+### 📚 Flashcard.io
+A SaaS platform for intelligent flashcard generation, built with Next.js, Firebase, OpenAI API, and Stripe. It enables AI-driven flashcard creation, subscription management, and intuitive user experiences. Deployed on AWS for scalability.
 
 ### 🔥 Calories Burned Predictor
 A machine learning application predicting calories burned with 91% accuracy, featuring a Flask API and a React.js frontend.
@@ -31,10 +31,10 @@ A machine learning model classifying SMS and emails as spam with 96.9% accuracy 
 
 ## 🛠️ Skills
 
-- **Languages**: Swift, Go, Python, C, C#, Java, JavaScript, TypeScript, HTML, CSS
-- **Frameworks**: React, Next.js, Node.js, Express, Angular, Spring Boot
-- **Tools**: Git, Docker, Jenkins, AWS, DevOps
-- **Databases**: MongoDB, DynamoDB, SupaBase, MS SQL Server Management Studio
+- **Languages**: Swift, Go, Python, C, C#, Java, JavaScript, TypeScript, Ta5beesScript, HTML, CSS
+- **Frameworks**: React, Next.js, Node.js, Express, Angular, Vue.js, Remix.js, Spring Boot, NumPy, PyTorch, TensorFlow
+- **Tools**: Git, AWS, Snowflake, Jupyter Notebook, Docker
+- **Databases**: MS SQL Server, MongoDB, PostgreSQL, DynamoDB, MySQL, Firebase Firestore 
 
 
 ## 🌱 Currently Learning & Working On
