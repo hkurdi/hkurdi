@@ -31,9 +31,9 @@ A machine learning model classifying SMS and emails as spam with 96.9% accuracy 
 
 ## 🛠️ Skills
 
-- **Languages**: Swift, Kotlin, Go, Python, C, C#, Java, JavaScript, TypeScript, Ta5beesScript, HTML, CSS
-- **Frameworks**: React, React Native, Next.js, Node.js, Express, Angular, Vue.js, Remix.js, Spring Boot, NumPy, PyTorch, TensorFlow
-- **Tools**: Git, AWS, Snowflake, Jupyter Notebook, Docker
+- **Languages**: Swift, Kotlin, Rust, Go, Python, C, C#, Java, JavaScript, TypeScript, Ta5beesScript, HTML, CSS
+- **Frameworks**: React, React Native, Next.js, Node.js, Express, Angular, Vue.js, Remix.js, Tauri, Yew, Spring Boot, NumPy, PyTorch, TensorFlow
+- **Tools**: Git, AWS, Redis, Snowflake, Jupyter Notebook, Docker
 - **Databases**: MS SQL Server, MongoDB, PostgreSQL, DynamoDB, MySQL, Firebase Firestore 
 
 
