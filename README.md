@@ -39,6 +39,7 @@ A machine learning model classifying SMS and emails as spam with 96.9% accuracy 
 
 ## 🌱 Currently Learning & Working On
 
+- Rust
 - Advanced Machine Learning & Deep Learning Techniques
 - 🌐 Baladi
 
